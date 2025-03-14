@@ -7,7 +7,7 @@ Welcome to the official repository for the **Blue Lock Rivals Script**! This is 
 
 ---
 
-![Banner]()
+![Banner](/assets/rivals.jpg)
 
 ## 📌 Features ✨
 - **Smooth & Fast Execution ⚡** – The best **roblox rivals script** with high-speed performance.
